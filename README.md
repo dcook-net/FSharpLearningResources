@@ -42,7 +42,6 @@ PR's welcome :)
 [Krzysztof Cieślak](https://twitter.com/k_cieslak) <br/>
 [Lena Hall](https://twitter.com/lenadroid) <br/>
 [Paul Blasucci](https://twitter.com/pblasucci) <br/>
-[Rachel Blasucci](https://twitter.com/rachelreese) <br/>
 [Ben Gobeil](https://twitter.com/GobeilBen) <br/>
 [Natalie Perret](https://twitter.com/natalie_perret) <br/>
 [Zaid Ajaj](https://twitter.com/zaid_ajaj) <br/>
