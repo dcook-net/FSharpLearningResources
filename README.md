@@ -55,7 +55,7 @@ PR's welcome :)
 [The Dev Owl/Roman Sachse](https://www.youtube.com/channel/UCOX5DkLyqctM-wkOAU_mUpA) <br/>
 [Zaid Ajaj](https://www.youtube.com/channel/UChT-c1jBnyKCltsw0cNifLA) <br/>
 [Ben Gobeil](https://www.youtube.com/channel/UCX7iFEPRPubYZyU-e-END5A) <br/>
-
+[Dave Thomas](https://www.youtube.com/channel/UC0kXc1f_WBYSklrElcPWzgg) <br/>
 
 ## .NET Conf: Focus on F#
 Loads of Talks here: [https://channel9.msdn.com/Events/dotnetConf/Focus-on-FSharp](https://channel9.msdn.com/Events/dotnetConf/Focus-on-FSharp#:~:text=NET%20Conf%3A%20Focus%20on%20F%23,powerful%20type%20system%20and%20the%20.)<br/>
