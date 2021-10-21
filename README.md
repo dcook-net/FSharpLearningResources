@@ -35,7 +35,7 @@ PR's welcome :)
 [slime girl](https://twitter.com/cagyirey) <br/>
 [Pim](https://twitter.com/70696d) <br/>
 [Natalie](https://twitter.com/natalie) <br/>
-[compositionalit](https://twitter.com/compositionalit) <br/>
+[Compositional IT](https://twitter.com/compositionalit) <br/>
 [Olya](https://twitter.com/w0lya) <br/>
 [Dustin Moris](https://twitter.com/dustinmoris) <br/>
 [Felienne](https://twitter.com/Felienne) <br/>
