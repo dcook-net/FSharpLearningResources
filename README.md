@@ -54,8 +54,8 @@ There are also youtube videos to accompany this book's content being added from 
 
 
 ## Youtube
-[amplifyingfsharp](https://www.youtube.com/@amplifyingfsharp)
-[amplifyingfsharp - Essential Lectures](https://www.youtube.com/playlist?list=PL1r7XrpHzfvy4w3GYSBtK0RzNUvP4jRlw) 
+[amplifyingfsharp](https://www.youtube.com/@amplifyingfsharp)<br/>
+[amplifyingfsharp - Essential Lectures](https://www.youtube.com/playlist?list=PL1r7XrpHzfvy4w3GYSBtK0RzNUvP4jRlw) <br/>
 [The Dev Owl/Roman Sachse](https://www.youtube.com/channel/UCOX5DkLyqctM-wkOAU_mUpA) <br/>
 [Zaid Ajaj](https://www.youtube.com/channel/UChT-c1jBnyKCltsw0cNifLA) <br/>
 [Ben Gobeil](https://www.youtube.com/channel/UCX7iFEPRPubYZyU-e-END5A) <br/>
