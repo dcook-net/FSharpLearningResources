@@ -22,7 +22,7 @@ There are also youtube videos to accompany this book's content being added from 
 [F# Cheatsheet](https://dungpa.github.io/fsharp-cheatsheet/)
 [F# Core Library Documentation](https://fsharp.github.io/fsharp-core-docs/) - Microsoft/Community <br/>
 [F# style guide](https://docs.microsoft.com/en-us/dotnet/fsharp/style-guide/) - Microsoft/Community <br/>
-[Amplifying F#](amplifyingfsharp.io) - Community </br>
+[Amplifying F#](http://amplifyingfsharp.io) - Community </br>
 
 ## Folks to follow on Twitter
 
