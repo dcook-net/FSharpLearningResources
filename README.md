@@ -23,6 +23,7 @@ This book is currently <b>Free</b> on lean Pub. There are also youtube videos to
 [F# Core Library Documentation](https://fsharp.github.io/fsharp-core-docs/) - Microsoft/Community <br/>
 [F# style guide](https://docs.microsoft.com/en-us/dotnet/fsharp/style-guide/) - Microsoft/Community <br/>
 [Amplifying F#](http://amplifyingfsharp.io) - Community </br>
+[F# Weekly](https://sergeytihon.com/fsharp-weekly/) - Community
 
 ## Folks to follow on Twitter
 
