@@ -5,10 +5,12 @@ A mutable collection of useful learning resources compiled from my own experienc
 PR's welcome :)
 
 ## Books:
-[Get Programming with F#](https://www.manning.com/books/get-programming-with-f-sharp?gclid=CjwKCAjw_L6LBhBbEiwA4c46uqHTRPeuaPnTU-1R8sIW-a9oEcSsIqMD0MW5eDAzBs2OifVtEDMQ-hoCe5EQAvD_BwE), by Isaac Abraham. <br/>
+[F# In action](https://www.manning.com/books/f-sharp-in-action), by Isaac Abraham. <br/>
 [Stylish F#](https://www.apress.com/gp/book/9781484239995), by Kit Eason. There is a second edition available of this. <br/>
 [Domain Modeling Made Functional](https://pragprog.com/titles/swdddf/domain-modeling-made-functional/), by Scott Wlaschin <br/>
-[Essential Functional First F#](https://leanpub.com/essential-fsharp), by Ian Russell <br/>
+[Essential Functional First F#](https://leanpub.com/essential-fsharp), by Ian Russell <br/> 
+There are also youtube videos to accompany this book's content being added from Feb 24, for 12 weeks. See Essential Lectures.
+[Get Programming with F#](https://www.manning.com/books/get-programming-with-f-sharp?gclid=CjwKCAjw_L6LBhBbEiwA4c46uqHTRPeuaPnTU-1R8sIW-a9oEcSsIqMD0MW5eDAzBs2OifVtEDMQ-hoCe5EQAvD_BwE), by Isaac Abraham. <br/>
 [Testing with F#](https://www.packtpub.com/product/testing-with-f/9781784391232), by Mikael Lundin <br/>
 [The Book of F#](https://nostarch.com/fsharp), by Dave Fancher <br/>
 
@@ -20,6 +22,7 @@ PR's welcome :)
 [F# Cheatsheet](https://dungpa.github.io/fsharp-cheatsheet/)
 [F# Core Library Documentation](https://fsharp.github.io/fsharp-core-docs/) - Microsoft/Community <br/>
 [F# style guide](https://docs.microsoft.com/en-us/dotnet/fsharp/style-guide/) - Microsoft/Community <br/>
+[Amplifying F#](amplifyingfsharp.io) - Community </br>
 
 ## Folks to follow on Twitter
 
@@ -51,6 +54,8 @@ PR's welcome :)
 
 
 ## Youtube
+[amplifyingfsharp](https://www.youtube.com/@amplifyingfsharp)
+[amplifyingfsharp - Essential Lectures](https://www.youtube.com/playlist?list=PL1r7XrpHzfvy4w3GYSBtK0RzNUvP4jRlw) 
 [The Dev Owl/Roman Sachse](https://www.youtube.com/channel/UCOX5DkLyqctM-wkOAU_mUpA) <br/>
 [Zaid Ajaj](https://www.youtube.com/channel/UChT-c1jBnyKCltsw0cNifLA) <br/>
 [Ben Gobeil](https://www.youtube.com/channel/UCX7iFEPRPubYZyU-e-END5A) <br/>
