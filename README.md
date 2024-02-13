@@ -9,7 +9,7 @@ PR's welcome :)
 [Stylish F#](https://www.apress.com/gp/book/9781484239995), by Kit Eason. There is a second edition available of this. <br/>
 [Domain Modeling Made Functional](https://pragprog.com/titles/swdddf/domain-modeling-made-functional/), by Scott Wlaschin <br/>
 [Essential Functional First F#](https://leanpub.com/essential-fsharp), by Ian Russell <br/> 
-There are also youtube videos to accompany this book's content being added from Feb 24, for 12 weeks. See Essential Lectures. <br/>
+There are also youtube videos to accompany this book's content being added from Feb 24, for 12 weeks. See [Essential Lectures](#Essential-Lectures). <br/>
 [Get Programming with F#](https://www.manning.com/books/get-programming-with-f-sharp?gclid=CjwKCAjw_L6LBhBbEiwA4c46uqHTRPeuaPnTU-1R8sIW-a9oEcSsIqMD0MW5eDAzBs2OifVtEDMQ-hoCe5EQAvD_BwE), by Isaac Abraham. <br/>
 [Testing with F#](https://www.packtpub.com/product/testing-with-f/9781784391232), by Mikael Lundin <br/>
 [The Book of F#](https://nostarch.com/fsharp), by Dave Fancher <br/>
@@ -55,11 +55,15 @@ There are also youtube videos to accompany this book's content being added from 
 
 ## Youtube
 [amplifyingfsharp](https://www.youtube.com/@amplifyingfsharp)<br/>
-[amplifyingfsharp - Essential Lectures](https://www.youtube.com/playlist?list=PL1r7XrpHzfvy4w3GYSBtK0RzNUvP4jRlw) <br/>
 [The Dev Owl/Roman Sachse](https://www.youtube.com/channel/UCOX5DkLyqctM-wkOAU_mUpA) <br/>
 [Zaid Ajaj](https://www.youtube.com/channel/UChT-c1jBnyKCltsw0cNifLA) <br/>
 [Ben Gobeil](https://www.youtube.com/channel/UCX7iFEPRPubYZyU-e-END5A) <br/>
 [Dave Thomas](https://www.youtube.com/channel/UC0kXc1f_WBYSklrElcPWzgg) <br/>
+
+### Essential Lectures
+A series of YouTube videos to accompany The [Essential Functional First F#](https://leanpub.com/essential-fsharp), book by Ian Russell <br/> 
+[amplifyingfsharp - Essential Lectures](https://www.youtube.com/playlist?list=PL1r7XrpHzfvy4w3GYSBtK0RzNUvP4jRlw) <br/>
+
 
 ## .NET Conf: Focus on F#
 Loads of Talks here: [https://channel9.msdn.com/Events/dotnetConf/Focus-on-FSharp](https://channel9.msdn.com/Events/dotnetConf/Focus-on-FSharp#:~:text=NET%20Conf%3A%20Focus%20on%20F%23,powerful%20type%20system%20and%20the%20.)<br/>
