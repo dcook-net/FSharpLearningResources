@@ -9,7 +9,7 @@ PR's welcome :)
 [Stylish F#](https://www.apress.com/gp/book/9781484239995), by Kit Eason. There is a second edition available of this. <br/>
 [Domain Modeling Made Functional](https://pragprog.com/titles/swdddf/domain-modeling-made-functional/), by Scott Wlaschin <br/>
 [Essential Functional First F#](https://leanpub.com/essential-fsharp), by Ian Russell <br/> 
-There are also youtube videos to accompany this book's content being added from Feb 24, for 12 weeks. See [Essential Lectures](#Essential-Lectures). <br/>
+This book is currently <b>Free</b> on lean Pub. There are also youtube videos to accompany this book's content being added from Feb 24, for 12 weeks. See [Essential Lectures](#Essential-Lectures). <br/><br/>
 [Get Programming with F#](https://www.manning.com/books/get-programming-with-f-sharp?gclid=CjwKCAjw_L6LBhBbEiwA4c46uqHTRPeuaPnTU-1R8sIW-a9oEcSsIqMD0MW5eDAzBs2OifVtEDMQ-hoCe5EQAvD_BwE), by Isaac Abraham. <br/>
 [Testing with F#](https://www.packtpub.com/product/testing-with-f/9781784391232), by Mikael Lundin <br/>
 [The Book of F#](https://nostarch.com/fsharp), by Dave Fancher <br/>
